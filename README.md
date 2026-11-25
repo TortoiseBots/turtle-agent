@@ -1,3 +1,5 @@
+<img width="2752" height="1536" alt="Gemini_Generated_Image_9yh62c9yh62c9yh6" src="https://github.com/user-attachments/assets/77284309-91fc-4f70-a8fd-ec094c3d361d" />
+
 # turtle-agent
 
 [![test](https://github.com/pjerra/turtle-agent/actions/workflows/test.yml/badge.svg)](https://github.com/pjerra/turtle-agent/actions/workflows/test.yml)
